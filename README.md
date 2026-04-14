@@ -8,4 +8,4 @@
 # Cite
 - Mon GitHub local, https://github.com/Stettler-Edition/Edition_Stettler/tree/main/readme
 # Remerciements
-- Je me remercie pour avoir compris le fonctionnement du github
+- Je me remercie pour avoir compris le fonctionnement du github, que j'apprends encore à maîtriser mieux.
