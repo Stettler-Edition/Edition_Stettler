@@ -2,7 +2,7 @@
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/standards/alto/ns-v4#"
       xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
-        <Description>
+  <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Stettler, n°1, p.1 d&#x27;ouverture.jpg</fileName>
@@ -30,7 +30,7 @@
                     WIDTH="1291"
                     HEIGHT="158">
             <Shape><Polygon POINTS="1924 204 1915 202 1900 202 1877 202 1864 202 1824 215 1771 202 1766 202 1751 202 1702 224 1608 208 1606 208 1604 208 1602 208 1602 211 1586 226 1453 226 1440 215 1437 215 1435 215 1433 215 1355 226 1326 200 1322 200 1300 197 1277 197 1255 197 1233 197 1211 197 1188 197 1166 197 1144 197 1122 197 1100 197 1091 197 1060 228 1035 228 991 195 988 195 986 195 966 195 944 195 924 195 922 195 920 195 917 195 873 226 815 220 788 195 786 195 784 195 766 195 744 195 722 195 708 195 706 195 704 195 702 195 655 224 657 282 657 346 1942 353 1946 284 1944 222 1924 204"/></Shape>
-                  <String CONTENT="De l&#x27;an 1774. jusqu&#x27;à 1786."
+            <String CONTENT="De l&#x27;an 1774. jusqu&#x27;à 1786."
                     HPOS="655"
                     VPOS="195"
                     WIDTH="1291"

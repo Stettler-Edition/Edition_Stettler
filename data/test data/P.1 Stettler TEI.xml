@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Journal</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Journal de Bernhard Albrecht Stettler. Volume 1</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Burgerbibliothek Bern, cote Mss.h.h. XLIII.11, volume n°1, page 1</p>
+         </sourceDesc>
+      </fileDesc>
+     <xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler, n°1, p.1 d'ouverture.xml
+        </alto:fileName>
+     </xenoData>
+  </teiHeader>
+   <facsimile>
+      <graphic url="Stettler_vol1_p1.jpg"/>
+   </facsimile>
+  <text>
+      <body>
+         <head>De l'an 1774. jusqu'à 1786.</head>
+         <p>Le but qu'on se propose généralement en écrivant le journal de sa vie, est</p>
+         <p>de parvenir plus facilement à une parfaite coñaissance de soi même. Le fidéle tableau</p>
+         <p>de nos actions, de nos jugemens, et de nos pensées, nous fait coñaitre les mouvemens</p>
+         <p>secrets de notre âme, ils se dèveloppent avec franchise et se présentent à notre</p>
+         <p>imagination sous leur vrai point de vue. L'agréable souvenir que réveille en</p>
+         <p>nous le récit des évenemens passés de notre vie, le plaisir qu'éprouveront nos</p>
+         <p>descendants à la lecture des faits historiques, les leçons qu'ils puiseront dans</p>
+         <p>nos malheurs, sont les fruits de ce long travail... Aiguilloné par ces motifs je n'ai</p>
+         <p>point redouté les obstacles attachés à un ouvrage aussi étendu; la haine de</p>
+         <p>l'oiseveté et l'amour des occupations utiles me les feront aisément vaincre. J'écris</p>
+         <p>dans la langue française, par ce qu'elle m'est plus étrangére que la maternelle,</p>
+         <p>cet exercice me perfectionera et doñera plus de facilité à mon style pour l'avenir.</p>
+         <p>Je com̃ence mon journal seulement à ma 25^me añée, c.a.d. le 1^er 9^bre 1799. à</p>
+         <p>Cormondrèche; une conversation que j'ai eûe ces jours passés avec M^r le Baron de</p>
+         <p>Chambrier, me fait prendre cette résolution; j'en dirai d'avantage quand je serai</p>
+         <p>arrivé à cette époque. Je veux maintenant reculer à ma premiére jeunesse et</p>
+         <p>retracer tous les événemens majeurs de ces tems, dont la plus part ont beaucoup</p>
+         <p>influé sur mes destinées présentes. Je suis né à Frienisberg le 6. Mars 1774. trois ans</p>
+         <p>de ma vie se sont écoulés dans ce séjour, je puis dire dans le bonheur, car je vivais incoñu</p>
+         <p>à moi même. Mon pére dont la préfecture de ce baillage allait à sa fin, se rendit à</p>
+         <p>Berne avec toute sa famille, je passai toute mon enfance alternativement</p>
+         <p>dans cette ville ou à Kirchberg, une campagne de mes parents. En hiver je</p>
+         <p>fréquentais le collège, en été des précepteurs étaient chargés de mon éducation.</p>
+         <p>Les dix premiéres añées mes occupations se bornérent à apprendre les principes</p>
+         <p>de notre religion, ceux de la langua latine, et du grec, je renonçais à cette</p>
+         <p>derniére langue aussi tôt qu'il fut décidé que je ne me vouerais pas au S^t</p>
+         <p>ministére. Le souvenir le plus désagréable qui me reste de ce tems de mon</p>
+         <p>adolescence, est la désunion constante entre mon frére cadet et moi. Que</p>
+         <p>de sujets d'amertume et de douleurs pour nos parents, qui ne désiraient que le</p>
+         <p>bonheur de leurs enfants; nos torts étaient sans doute réciproques, les miens</p>
+         <p>étaient plus graves com̃e ainé, et je me les reprocherai toujours. La suite</p>
+         <p>nous a prouvé, et j&#x27;aurai occasion d'en parler, que ce peu d'accord entre nous</p>
+      </body>
+  </text>
+</TEI>
