@@ -10,9 +10,10 @@
             <p>Journal de Bernhard Albrecht Stettler. Volume 1</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Burgerbibliothek Bern, cote Mss.h.h. XLIII.11, volume n°1, page 1</p>
+            <p>Burgerbibliothek Bern, cote Mss.h.h. XLIII.11, volume n°1</p>
          </sourceDesc>
       </fileDesc>
+     <xenoData>Dans mes xenodata, utiliser plutôt xinclude, et donc renvoyer direct vers les documents alto. Selon Simon, le xinclude est plus adéquat que xenoData et plus économique car tient sur moins de place, à intégrer avec le graphic de facsimil</xenoData>
      <xenoData>
         <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
            Stettler_vol.1_p.1 d'ouverture.xml
@@ -70,39 +71,41 @@
          <pb facs="#facs_p1" n="1"/>
          <fw type="pageNum" place="top-right">1</fw>
             <head>De l'an 1774. jusqu'à 1786.</head>
-            <p>Le but qu'on se propose généralement en écrivant le journal de sa vie, est</p>
-            <p>de parvenir plus facilement à une parfaite coñaissance de soi même. Le fidéle tableau</p>
-            <p>de nos actions, de nos jugemens, et de nos pensées, nous fait coñaitre les mouvemens</p>
-            <p>secrets de notre âme, ils se dèveloppent avec franchise et se présentent à notre</p>
-            <p>imagination sous leur vrai point de vue. L'agréable souvenir que réveille en</p>
-            <p>nous le récit des évenemens passés de notre vie, le plaisir qu'éprouveront nos</p>
-            <p>descendants à la lecture des faits historiques, les leçons qu'ils puiseront dans</p>
-            <p>nos malheurs, sont les fruits de ce long travail... Aiguilloné par ces motifs je n'ai</p>
-            <p>point redouté les obstacles attachés à un ouvrage aussi étendu; la haine de</p>
-            <p>l'oiseveté et l'amour des occupations utiles me les feront aisément vaincre. J'écris</p>
-            <p>dans la langue française, par ce qu'elle m'est plus étrangére que la maternelle,</p>
-            <p>cet exercice me perfectionera et doñera plus de facilité à mon style pour l'avenir.</p>
-            <p>Je com̃ence mon journal seulement à ma 25^me añée, c.a.d. le 1^er 9^bre 1799. à</p>
-            <p><geogName>Cormondrèche</geogName>; une conversation que j'ai eûe ces jours passés avec <persName>M^r le Baron de<lb/>
-             Chambrier</persName>,me fait prendre cette résolution; j'en dirai d'avantage quand je serai</p>
-            <p>arrivé à cette époque. Je veux maintenant reculer à ma premiére jeunesse et</p>
-            <p>retracer tous les événemens majeurs de ces tems, dont la plus part ont beaucoup</p>
-            <p>influé sur mes destinées présentes. Je suis né à <geogName>Frienisberg</geogName> le 6. Mars 1774. trois ans</p>
-            <p>de ma vie se sont écoulés dans ce séjour, je puis dire dans le bonheur, car je vivais incoñu</p>
-            <p>à moi même. Mon pére dont la préfecture de ce baillage allait à sa fin, se rendit à</p>
-            <p>Berne avec toute sa famille, je passai toute mon enfance alternativement</p>
-            <p>dans cette ville ou à <geogName>Kirchberg</geogName>, une campagne de mes parents. En hiver je</p>
-            <p>fréquentais le collège, en été des précepteurs étaient chargés de mon éducation.</p>
-            <p>Les dix premiéres añées mes occupations se bornérent à apprendre les principes</p>
-            <p>de notre religion, ceux de la langua latine, et du grec, je renonçais à cette</p>
-            <p>derniére langue aussi tôt qu'il fut décidé que je ne me vouerais pas au S^t</p>
-            <p>ministére. Le souvenir le plus désagréable qui me reste de ce tems de mon</p>
-            <p>adolescence, est la désunion constante entre mon frére cadet et moi. Que</p>
-            <p>de sujets d'amertume et de douleurs pour nos parents, qui ne désiraient que le</p>
-            <p>bonheur de leurs enfants; nos torts étaient sans doute réciproques, les miens</p>
-            <p>étaient plus graves com̃e ainé, et je me les reprocherai toujours. La suite</p>
-            <p>nous a prouvé, et j'aurai occasion d'en parler, que ce peu d'accord entre nous</p>
-            <p>¬</p>
+            <p>
+            <lb/>Le but qu'on se propose généralement en écrivant le journal de sa vie, est
+            <lb/>de parvenir plus facilement à une parfaite coñaissance de soi même. Le fidéle tableau
+            <lb/>de nos actions, de nos jugemens, et de nos pensées, nous fait coñaitre les mouvemens
+            <lb/>secrets de notre âme, ils se dèveloppent avec franchise et se présentent à notre
+            <lb/>imagination sous leur vrai point de vue. L'agréable souvenir que réveille en
+            <lb/>nous le récit des évenemens passés de notre vie, le plaisir qu'éprouveront nos
+            <lb/>descendants à la lecture des faits historiques, les leçons qu'ils puiseront dans
+            <lb/>nos malheurs, sont les fruits de ce long travail... Aiguilloné par ces motifs je n'ai
+            <lb/>point redouté les obstacles attachés à un ouvrage aussi étendu; la haine de
+            <lb/>l'oiseveté et l'amour des occupations utiles me les feront aisément vaincre. J'écris
+            <lb/>dans la langue française, par ce qu'elle m'est plus étrangére que la maternelle,
+            <lb/>cet exercice me perfectionera et doñera plus de facilité à mon style pour l'avenir.
+            <lb/>Je com̃ence mon journal seulement à ma 25^me añée, c.a.d. le 1^er 9^bre 1799. à
+            <lb/>Cormondrèche; une conversation que j'ai eûe ces jours passés avec M^r le Baron de
+            <lb/> Chambrier,me fait prendre cette résolution; j'en dirai d'avantage quand je serai
+            <lb/>arrivé à cette époque. Je veux maintenant reculer à ma premiére jeunesse et
+            <lb/>retracer tous les événemens majeurs de ces tems, dont la plus part ont beaucoup
+            <lb/>influé sur mes destinées présentes. Je suis né à Frienisberg le 6. Mars 1774. trois ans
+            <lb/>de ma vie se sont écoulés dans ce séjour, je puis dire dans le bonheur, car je vivais incoñu
+            <lb/>à moi même. Mon pére dont la préfecture de ce baillage allait à sa fin, se rendit à
+            <lb/>Berne avec toute sa famille, je passai toute mon enfance alternativement
+            <lb/>dans cette ville ou à Kirchberg, une campagne de mes parents. En hiver je
+            <lb/>fréquentais le collège, en été des précepteurs étaient chargés de mon éducation.
+            <lb/>Les dix premiéres añées mes occupations se bornérent à apprendre les principes
+            <lb/>de notre religion, ceux de la langua latine, et du grec, je renonçais à cette
+            <lb/>derniére langue aussi tôt qu'il fut décidé que je ne me vouerais pas au S^t
+            <lb/>ministére. Le souvenir le plus désagréable qui me reste de ce tems de mon
+            <lb/>adolescence, est la désunion constante entre mon frére cadet et moi. Que
+            <lb/>de sujets d'amertume et de douleurs pour nos parents, qui ne désiraient que le
+            <lb/>bonheur de leurs enfants; nos torts étaient sans doute réciproques, les miens
+            <lb/>étaient plus graves com̃e ainé, et je me les reprocherai toujours. La suite
+            <lb/>nous a prouvé, et j'aurai occasion d'en parler, que ce peu d'accord entre nous
+            <lb/>¬
+            </p>
          </div>
          <div>
          <pb facs="#facs_p2" n="2"/>
@@ -117,7 +120,7 @@
             <p>de sa classe j'étais beaucoup plus ignorant que lorsque j'y entrai. C'est dans</p>
             <p>cette añée que l'institut politique prit son origine; les persoñes les plus éclairées</p>
             <p>furent choisies pour mettre la derniére main à l'instruction de la jeunesse</p>
-            <p>patricieñe de <geogName>Berne</geogName>. mon père conçut les meilleures espérances d'un établissement</p>
+            <p>patricieñe de Berne. mon père conçut les meilleures espérances d'un établissement</p>
             <p>à la fondation duquel il avait même contribué, j'y fis mon entrée au mois</p>
             <p>de 9^bre et je l'ai fréquenté avec assez de succés, pendant trois hivers consécutifs.</p>
             <p>Je com̃ençais en même tems mes leçons dans la langue française, des</p>
@@ -149,7 +152,7 @@
             <head>1789. 1790.</head>
             <p>¬ pour m'en procurer la jouissance; la réussite ne fut pas difficile, et je fis sous ses auspices</p>
             <p>le premier pas au libertinage. Cétait à la fin de 1789. je me faisais instruire dans le même</p>
-            <p>tems par mon <persName>beaufrére L.</persName> à 11. heure du matin mon âme s'abandonait avec plaisir aux</p>
+            <p>tems par mon beaufrére L. à 11. heure du matin mon âme s'abandonait avec plaisir aux</p>
             <p>douceurs d'une occupation aussi salutaire, et le soir à 5. heures le vice reprenait son empire.</p>
             <p>Cependant les cris de ma conscience se faisaient vivement entendre, mes premières</p>
             <p>erreurs furent suivies du plus sincère répentir; le soir avant de me coucher je priais</p>
@@ -193,21 +196,21 @@
            <p>et les après midi chés mon beaufrére D. il n'y avait que les soirées qui furent</p>
            <p>uelque fois assez mal employées. Je fus arraché à ce genre de Vie, par le</p>
            <p>résolution que prit mon pére de me placer au pays de Vaud. Je partis le 29.</p>
-           <p>avril 1790. pour me rendre à <geogName>Morges</geogName>, chez <persName>M^r le sécrétaire Baillival Pache</persName>; j'eus</p>
+           <p>avril 1790. pour me rendre à Morges, chez M^r le sécrétaire Baillival Pache; j'eus</p>
            <p>le bonheur de m'y faire des amis, j'en avais un grand besoin, la privation</p>
            <p>.. des premiers me rendit plus prudent envers les autres. Je passais six</p>
-           <p>mois fort agréablement; des courses à <geogName>Lausañe</geogName>, à <geogName>Auboñe</geogName> &amp; <geogName>Rolle</geogName>, un voiage</p>
+           <p>mois fort agréablement; des courses à Lausañe, à Auboñe &amp; Rolle, un voiage</p>
            <p>au tour du lac, des bals et des fêtes et la société des fem̃es, variérent les</p>
            <p>plaisirs de ce tems là. Cependant l&#x27;amour vint troubler le repos de mon</p>
            <p>coeur; ce n&#x27;était point pour la première fois que je sentais sa flêche; j&#x27;aimais</p>
-           <p>à <geogName>Berne</geogName>, si on peut aimer avant de coñaitre l&#x27;amour; mais le nouveau</p>
+           <p>à Berne, si on peut aimer avant de coñaitre l&#x27;amour; mais le nouveau</p>
            <p>sentiment prit la place de l&#x27;autre, et je me livrais entiérement à ce nouvel</p>
            <p>objet ; l&#x27;aimer et le lui dire fut l&#x27;affaire du moment; je lui parlais en même</p>
            <p>tems de mariage, mais l&#x27;envie m&#x27;en passa un jour, que je vis qu&#x27;elle avait ses</p>
            <p>petites mains pleines de verrûes. Age heureux ! où les impressions que nous</p>
            <p>recevons de ce charmant sexe, disparoissent avec les circonstances qui les</p>
            <p>font naitre. (cette derniére phrase est sans logique.)</p>
-           <p>Pendant mon séjour à <geogName>Morges</geogName>, un de mes amis me dit une grossiéreté; j&#x27;en fis</p>
+           <p>Pendant mon séjour à Morges, un de mes amis me dit une grossiéreté; j&#x27;en fis</p>
            <p>des plaintes à mes autres camarades, qui me doñérent l&#x27;idée d&#x27;arranger</p>
            <p>un duel aux pistolets, chargés simplement à poudre; ils se proposérent d&#x27;être</p>
            <p>nos secondants et de faire la chose eux mêmes. Ils cherchérent en conséquence</p>
@@ -232,12 +235,12 @@
            <p>il fut convenut que les eñemis réconciliés payeraient un gouter à Mess^s les</p>
            <p>secondants. J&#x27;ignore encore dans ce moment si mon adversaire a sû de quoi</p>
            <p>il s&#x27;agissait. Le mois de septembre fut le dernier que je passais au <geogName>pays de Vaud</geogName>;</p>
-           <p>la maladie de <persName>M^r Pache</persName> causait mon prompt retour; j&#x27;ai logé pendant 15. jours</p>
-           <p>au château, ches <persName>M^r le Baillif de Ryhiner</persName>, qui m&#x27;a comblé d&#x27;hoñêtetés.</p>
-           <p>La satisfaction de revoir mes parans qui se trouvaient à <geogName>Kirchberg</geogName> était extrême,</p>
+           <p>la maladie de M^r Pache causait mon prompt retour; j&#x27;ai logé pendant 15. jours</p>
+           <p>au château, ches M^r le Baillif de Ryhiner, qui m&#x27;a comblé d&#x27;hoñêtetés.</p>
+           <p>La satisfaction de revoir mes parans qui se trouvaient à Kirchberg était extrême,</p>
            <p>nous rentrames en Ville en 9^bre. en Décembre et une partie de Janviér 1791. se</p>
-           <p>passa à <geogName>Ursenbach</geogName>; mon père venait d&#x27;hériter le <persName>ministre Aechler un cousin</persName></p>
-           <p>fort eloigné. En revenant à <geogName>Berne</geogName>, je continuais à fréquenter linstitut.</p>
+           <p>passa à Ursenbach; mon père venait d&#x27;hériter le ministre Aechler un cousin</p>
+           <p>fort eloigné. En revenant à Berne, je continuais à fréquenter linstitut.</p>
            <p>Le 6. de mars en com̃ençant ma 16^me añée, on me plaça dans la Chancellerie,</p>
            <p>plus-tôt pour me faire travailler, que de suivre cette carriére. Il faut que</p>
            <p>mes parans se soyent apperçûs que la séparation entre mon cadet et moi</p>
@@ -245,18 +248,18 @@
            <p>nous écrivions des lettres dont le contenû était des épanchemens réciproques</p>
            <p>d&#x27;une tendre amitié, et des promesses solemnelles de ne plus nous rendre</p>
            <p>nos jours amers par la discorde et la desunion; mais nous ne tinmes point</p>
-           <p>encore parole. Mon père résolut de mettre mon frére au <geogName>pays de Vaud</geogName>; nous</p>
+           <p>encore parole. Mon père résolut de mettre mon frére au pays de Vaud; nous</p>
            <p>partimes le 1^er de may, mon pére et ses deux fils, pour conduire le cadet</p>
-           <p>chez <persName>M^r le Doyen Bourgeois</persName> à <geogName>S^t Cierge</geogName>; nous passames par <geogName>Payerne</geogName> et</p>
-           <p><geogName>Yverdun</geogName>, et nous avions le plus grand plaisir de voyager avec un pére</p>
-           <p>aussi chéri. On nous reçût à <geogName>S^t Cierge</geogName> le mieux du monde, nous y laissames</p>
-           <p>mon frére, et primes la route de <geogName>Moudon</geogName>, pour nous en retourner à <geogName>Berne</geogName>.</p>
-           <p>Peu de tems après, je crois au mois de Juin, on alla à <geogName>Kirchberg</geogName>. Dans les belles</p>
+           <p>chez M^r le Doyen Bourgeois à S^t Cierge; nous passames par Payerne et</p>
+           <p>Yverdun, et nous avions le plus grand plaisir de voyager avec un pére</p>
+           <p>aussi chéri. On nous reçût à S^t Cierge le mieux du monde, nous y laissames</p>
+           <p>mon frére, et primes la route de Moudon, pour nous en retourner à Berne.</p>
+           <p>Peu de tems après, je crois au mois de Juin, on alla à Kirchberg. Dans les belles</p>
            <p>soirées de l&#x27;été, à la promenade, mes parans s&#x27;occupaient du sort futur de</p>
            <p>leurs enfans. Mes deux soeurs étaient établies; mon frére ainé, dont l&#x27;amour</p>
            <p>pour l&#x27;étude devait faire un hom̃e de lettres, venait de quitter l&#x27;univérsité de</p>
-           <p><geogName>Göttinguen</geogName>, il était attendu à la maison aussi tôt que ses voiages à <geogName>Berlin</geogName> à <geogName>Vieñe</geogName></p>
-           <p>et à <geogName>Francfort</geogName>, où il voulait assister au couroñement de <persName>l&#x27;empereur Léopold</persName>,</p>
+           <p>Göttinguen, il était attendu à la maison aussi tôt que ses voiages à Berlin à Vieñe</p>
+           <p>et à Francfort, où il voulait assister au couroñement de l&#x27;empereur Léopold,</p>
            <p>seraient à leur fin. Mes les deux fils cadets demandaient encore les sollicitudes</p>
            <p>¬</p>
        </div>
@@ -264,8 +267,10 @@
        <pb facs="#facs_p6" n="6"/>
        <fw type="pageNum" place="top-left">6</fw>
           <head>1791.</head>
-          <p>¬ des meilleurs parans. Une lettre que mon pére reçût dans ce tems de <persName>M^r</persName></p><p><persName>Stettler</persName>, Lieut^d Colonel au régiment de Rochmondet, au service du Roi de Sardaigne</p>
-          <p>où il lui offre une place de sous lieutenant pour un de ses fils, le mit dans</p>
+          <p>
+          <lb/>¬ des meilleurs parans. Une lettre que mon pére reçût dans ce tems de M^r Stettler, Lieut^d Colonel au régiment de Rochmondet, au service du Roi de Sardaigne
+          <lb/>où il lui offre une place de sous lieutenant pour un de ses fils, le mit dans
+          </p>
        </div>    
       </body>
   </text>
