@@ -1,11 +1,13 @@
 # Edition Stettler
 # Content
-- data: contains ALTO with images
-- data: annotated version of Stettler's Journal
-- scripts: R script for analysis
+- Data: contains 3 subfolders 
+      1) ALTO with Stettler's Journal transcribed from eScriptorium
+      2) JPG  with pictures of Stettler's Journal
+      3) TEI with various versions of the document as it evolved, including the final version annotated of Stettler's Journal
+- Script: Pythons scripts for analysis
 #Licence 
-- The images are the property of the Burgerbibliothek
+- The images are the property of the Burgerbibliothek Bern
 # Cite
 - Mon GitHub local, https://github.com/Stettler-Edition 
 # Remerciements
-- Je me remercie pour avoir compris le fonctionnement du github, que j'apprends encore à maîtriser mieux.
+
