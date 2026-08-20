@@ -1,0 +1,51 @@
+<xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler_vol.1_p.1 d'ouverture.xml
+        </alto:fileName>
+     </xenoData>
+     <xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler_vol.1_p.2.xml
+        </alto:fileName>
+     </xenoData>
+     <xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler_vol.1_p.3.xml
+        </alto:fileName>
+     </xenoData>
+     <xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler_vol.1_p.4.xml
+        </alto:fileName>
+     </xenoData>
+     <xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler_vol.1_p.5.xml
+        </alto:fileName>
+     </xenoData>
+     <xenoData>
+        <alto:fileName xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+           Stettler_vol.1_p.6.xml
+        </alto:fileName>
+     </xenoData>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="facs_p1" corresp="#alto_p1">
+      <graphic url="Stettler_vol1_p1.jpg"/>
+      </surface>
+      <surface xml:id="facs_p2" corresp="#alto_p2">
+         <graphic url="Stettler_vol1_p2.jpg"/>
+      </surface>
+      <surface xml:id="facs_p3" corresp="#alto_p3">
+         <graphic url="Stettler_vol1_p3.jpg"/>
+      </surface>
+      <surface xml:id="facs_p4" corresp="#alto_p4">
+         <graphic url="Stettler_vol1_p4.jpg"/>
+      </surface>
+      <surface xml:id="facs_p5" corresp="#alto_p5">
+         <graphic url="Stettler_vol1_p5.jpg"/>
+      </surface>
+      <surface xml:id="facs_p6" corresp="#alto_p6">
+         <graphic url="Stettler_vol1_p6.jpg"/>
+      </surface>
+   </facsimile>
