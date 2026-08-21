@@ -13,5 +13,4 @@
 - The images are the property of the Burgerbibliothek Bern
 # Cite
 - Mon GitHub local, https://github.com/Stettler-Edition 
-# Remerciements
 
