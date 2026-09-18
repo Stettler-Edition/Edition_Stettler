@@ -12,5 +12,7 @@
 #Licence 
 - The images are the property of the Burgerbibliothek Bern
 # Cite
-- Mon GitHub local, https://github.com/Stettler-Edition 
+- Nicolas de Félice, Edition Stettler, University of Geneva, 2026, https://github.com/Stettler-Edition 
+#Rights
+- CC BY-NC-SA 4.0
 
