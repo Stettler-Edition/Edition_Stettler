@@ -9,7 +9,7 @@
       3) TEI with various versions of the document as it evolved, including the final version annotated of Stettler's Journal
       
 - Script: Pythons scripts for analysis
-#Licence 
+# Licence 
 - The images are the property of the Burgerbibliothek Bern
 # Cite
 - Nicolas de Félice, Edition Stettler, University of Geneva, 2026, https://github.com/Stettler-Edition 
