@@ -13,6 +13,6 @@
 - The images are the property of the Burgerbibliothek Bern
 # Cite
 - Nicolas de Félice, Edition Stettler, University of Geneva, 2026, https://github.com/Stettler-Edition 
-#Rights
+# Rights
 - CC BY-NC-SA 4.0
 
